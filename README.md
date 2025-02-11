@@ -1,5 +1,5 @@
 # 📚 Appunti di Ingegneria del Software
-Questa repository contiene appunti e materiali di studio sull'Ingegneria del Software, con particolare attenzione a Design, Testing e altri argomenti fondamentali.
+Questa repository raccoglie appunti strutturati su concetti chiave dell’ingegneria del software, basati su lezioni, slide e testi di riferimento. Gli argomenti trattati includono architetture software, design pattern, gestione dei requisiti e metodologie di sviluppo. Particolare attenzione è stata prestata a Design, Testing e altri argomenti fondamentali.
 
 ## 📂 Struttura
 - 📁 **Appunti** – Questa cartella contiene i file pdf degli appunti, esportati da Notion
