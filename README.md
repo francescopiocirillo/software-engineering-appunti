@@ -9,7 +9,20 @@ These notes cover key topics in **Software Engineering**, including software arc
 All materials are in **Italian**, as they are based on courses I attended at an **Italian university**. However, if you need help with this subject in **English**, feel free to reach out—I’d be happy to suggest some resources in English! 😊
 
 ## 📂 Struttura
-- 📁 **Appunti** – Questa cartella contiene i file pdf degli appunti, esportati da Notion
+
+### 📖 **Appunti** (Cartella `Appunti/`)
+
+* **1 - Requirements Engineering.pdf** 📝
+    
+* **2 - Design.pdf** 🎨
+    
+* **3 - Design (principi generali).pdf** 🏗️
+    
+* **4 - Testing.pdf** ✅
+    
+* **5 - Testing (JUnit).pdf** 🔍
+    
+* **6 - Version Control Systems and GIT.pdf** 🌱
 
 ## 📜 Licenza
 Questo materiale è distribuito sotto la licenza  
