@@ -1,6 +1,8 @@
 # 📚 Appunti di Ingegneria del Software
 Questa repository raccoglie appunti strutturati su concetti chiave dell’ingegneria del software, basati su lezioni, slide e testi di riferimento. Gli argomenti trattati includono architetture software, design pattern, gestione dei requisiti e metodologie di sviluppo. Particolare attenzione è stata prestata a Design, Testing e altri argomenti fondamentali.
 
+> Demonstrated solid knowledge of software engineering principles, including software architectures, design patterns, requirements engineering, testing methodologies, and version control practices.
+
 📌 Note for English Speakers
 ----------------------------
 
